@@ -1,0 +1,19 @@
+
+section{
+    padding-top: 50px;
+}
+.btn{
+    color: white;
+}
+.btn:hover {
+background-color: aliceblue;
+color:black;
+border-color:white;
+}
+#quote {
+    color: white;
+}
+#demo{
+    color: darkgrey;
+  
+}
